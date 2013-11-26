@@ -1,6 +1,6 @@
 WSS-Mod (c) Wayss/Waysse
 =======
-I want to add more in Game Dev Tycoon with this mod
+I want to add more in Game Dev Tycoon with this mod, topics, researches, consoles, events and other.
 
 
 
