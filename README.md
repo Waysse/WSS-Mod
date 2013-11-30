@@ -5,6 +5,10 @@ If you want to help me with this mod, please send PM to my profile on Game Ded T
 
 I started working on the mod 26.11.2013
 
+Topics - 1
+Platforms - 1
+
+Current mod version - 0.0.1
 
 
 
