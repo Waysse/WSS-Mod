@@ -5,7 +5,7 @@ If you want to help me with this mod, please send PM to my profile on Game Ded T
 
 I started working on the mod 26.11.2013
 
-Current mod version - 0..1 [1 topic]
+Current mod version - 0.1 [1 topic]
 
 
 
