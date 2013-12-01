@@ -9,8 +9,8 @@ I started working on the mod 1.12.2013
 
 Current mod version - 0.1 [1 topic]
 
-You can see mod changelog in changelog.txt
-https://github.com/Waysse/WSS-Mod/blob/master/Changelog.txt
+You can see mod changelog in changelog.txt https://github.com/Waysse/WSS-Mod/blob/master/Changelog.txt
+
 
 
 
